@@ -12,7 +12,638 @@
       "score": "0 - 0",
       "date": "2025-08-21T03:00:00+03:00",
       "stadium": "Unknown",
-      "league": "كأس الدوريات - ربع النهائي"
+      "league": "كأس الدوريات - ربع النهائي",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "تولوكا",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2078"
+      },
+      "away_team": {
+        "name": "أورلاندو سيتي",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/12204.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T04:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "كأس الدوريات - ربع النهائي",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "سياتيل ساونديرز",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1347.png"
+      },
+      "away_team": {
+        "name": "بويبلا",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1252"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T06:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "كأس الدوريات - ربع النهائي",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "لوس أنجلوس غالاكسي",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1342.png"
+      },
+      "away_team": {
+        "name": "باتشوكا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1250.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T06:45:00+03:00",
+      "stadium": "Unknown",
+      "league": "كأس الدوريات - ربع النهائي",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "المقاولون العرب",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8310.png"
+      },
+      "away_team": {
+        "name": "حرس الحدود",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8307.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T18:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "الدوري المصري",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "روسينبورغ",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1986.png"
+      },
+      "away_team": {
+        "name": "ماينز 05",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/352.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T19:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "ميتييلاند",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1823.png"
+      },
+      "away_team": {
+        "name": "كوبيون بالوسورا",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1935"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T19:30:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "مالمو",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1891.png"
+      },
+      "away_team": {
+        "name": "سيغما أولوموتس",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1798"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T20:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "حمرون سبارتانس",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/14989"
+      },
+      "away_team": {
+        "name": "داوغافا ريغا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/24801.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T20:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "بران بيرغن",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1982"
+      },
+      "away_team": {
+        "name": "آيك لارنكا",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2274"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T20:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "بي.كي. هاكين",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1903.png"
+      },
+      "away_team": {
+        "name": "1907 كلوج",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2040"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T20:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "فولفيرسبيرجير",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/9376"
+      },
+      "away_team": {
+        "name": "أومونيا نيقوسيا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2262.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T20:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "غيوري",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2065.png"
+      },
+      "away_team": {
+        "name": "رابيد فيينا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1738.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T20:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "باشاك شهير",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/958.png"
+      },
+      "away_team": {
+        "name": "أونيفرسيتاتيا كرايوفا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2048.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T20:45:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "سموحة",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8309.png"
+      },
+      "away_team": {
+        "name": "زد",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/29732.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "الدوري المصري",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "مودرن سبورت",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/50877.png"
+      },
+      "away_team": {
+        "name": "الزمالك",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8201.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "الدوري المصري",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "تيتوفو",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8486"
+      },
+      "away_team": {
+        "name": "لودوجوريتس",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8528.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "مكابي تل أبيب",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/566"
+      },
+      "away_team": {
+        "name": "دينامو كييف",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1956.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "موستار",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5650.png"
+      },
+      "away_team": {
+        "name": "أوتريخت",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/698.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "ستراسبورج",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/479.png"
+      },
+      "away_team": {
+        "name": "بروندبي",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1829.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "بوليسيا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/48818.png"
+      },
+      "away_team": {
+        "name": "فيورنتينا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/228.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "دريتا",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/45033"
+      },
+      "away_team": {
+        "name": "ديفيردانج",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/7533.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "ليفسكي صوفيا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2277.png"
+      },
+      "away_team": {
+        "name": "ألكمار",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/699.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "نيمان غرودنو",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8724.png"
+      },
+      "away_team": {
+        "name": "رايو فاييكانو",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/174.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "أندرلخت",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1173.png"
+      },
+      "away_team": {
+        "name": "أيك أثينا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1024.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "سبارتا براغ",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1788.png"
+      },
+      "away_team": {
+        "name": "ريجا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/29362.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "باناثينيكوس",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1022.png"
+      },
+      "away_team": {
+        "name": "سامسون سبور",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/997.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "بريدابليك",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2089"
+      },
+      "away_team": {
+        "name": "اس فيرتوس",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/71248.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "أولمبيا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5986.png"
+      },
+      "away_team": {
+        "name": "نواه",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/56933.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "شاختار دونيتسك",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1955.png"
+      },
+      "away_team": {
+        "name": "سيرفيت جنيف",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1154.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "تسيليى",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2345.png"
+      },
+      "away_team": {
+        "name": "بانيك أوسترافا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1790.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "سلوفان براتيسلافا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2112.png"
+      },
+      "away_team": {
+        "name": "يونغ بويز",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1139.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:15:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "لوزان سبورت",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1160.png"
+      },
+      "away_team": {
+        "name": "بشكتاش",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/947.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:15:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "ياغييلونيا بياويستوك",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2220.png"
+      },
+      "away_team": {
+        "name": "دينامو تيرانا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5583.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:15:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "ليخ بوزنان",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2211.png"
+      },
+      "away_team": {
+        "name": "جينك",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1177.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:30:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "أبردين",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/761"
+      },
+      "away_team": {
+        "name": "ستياوا بوخارست",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2041.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:45:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "رييكا",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2248"
+      },
+      "away_team": {
+        "name": "باوك سالونيكا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1029.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:45:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "شيلبورن",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/849"
+      },
+      "away_team": {
+        "name": "لينفيلد",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5594.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T21:45:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "كريستال بالاس",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/10.png"
+      },
+      "away_team": {
+        "name": "فريدريكستاد",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1975"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T22:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "راكوف تشانستوخوفا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/13058.png"
+      },
+      "away_team": {
+        "name": "أردا كارادزالي",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/52588.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T22:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "لينكولن ريد امبس",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/16037"
+      },
+      "away_team": {
+        "name": "سبورتينج براغا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/895.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T22:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "تصفيات الدوري الاوروبي  - بلاي اوف",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "سانتا كلارا",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/935.png"
+      },
+      "away_team": {
+        "name": "شامروك روفرز",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/838.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T22:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
+    },
+    {
+      "home_team": {
+        "name": "هيبرنيان",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/757.png"
+      },
+      "away_team": {
+        "name": "ليغيا وارسو",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2209.png"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T22:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "دوري المؤتمر الأوروبي - Qualification - Playoffs",
+      "link": "#"
     }
   ]
 }

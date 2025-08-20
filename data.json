@@ -1,0 +1,18 @@
+{
+  "matches": [
+    {
+      "home_team": {
+        "name": "انتر ميامي",
+        "logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/54729.png"
+      },
+      "away_team": {
+        "name": "تيغريس",
+        "logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1264"
+      },
+      "score": "0 - 0",
+      "date": "2025-08-21T03:00:00+03:00",
+      "stadium": "Unknown",
+      "league": "كأس الدوريات - ربع النهائي"
+    }
+  ]
+}
